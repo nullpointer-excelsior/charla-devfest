@@ -17,6 +17,11 @@ python ai -m gpt4o dev "como puedo buscar archivos python en el directorio actua
 # traduccion sencilla
 python ai translate "De paladin a hechizero como integrar bash con AI"
 
+
+python ai translate "De paladin a hechizero como integrar bash con AI"
+
+
+
 # traduccion basada en stdin
 man cat | python ai translate
 

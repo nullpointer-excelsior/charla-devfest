@@ -1,5 +1,8 @@
 #!/bin/zsh
 
+## Instalación
+# https://github.com/danielmiessler/fabric
+
 # fabric es una herramienta avanzada y opensource
 fabric --help
 

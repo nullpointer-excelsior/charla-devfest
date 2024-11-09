@@ -20,6 +20,8 @@ python ai translate "De paladin a hechizero como integrar bash con AI"
 # traduccion basada en stdin
 man cat | python ai translate
 
+python ai commit-generator -c
+
 # pregunta a un archivo
 python ai textfile ../pokemon-gen1.json -q "dame los primeros 5 pokemones de fuego del archivo"
 

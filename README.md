@@ -1,4 +1,4 @@
-# De paladin a hechizero como integrar bash con AI
+# De paladín a hechicero: cómo integrar Bash con IA.
 
 Integrando AI en la terminal.
 
